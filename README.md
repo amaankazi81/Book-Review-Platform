@@ -5,29 +5,29 @@ A full-stack web application where users can discover books, write reviews, and 
 **📖 Book Management**
 
 - Browse Books: View a paginated list of all books with search and filter capabilities. Filter by genre/author and sort by rating, date, title, or author
-  <img width="1364" height="605" alt="UI" src="https://github.com/user-attachments/assets/a755ddc2-c85d-414b-8fe7-8c789eb915e5" />
+  <img width="1364" height="605" alt="UI" src="https://github.com/user-attachments/assets/382bfe13-e137-41c6-a9f0-8ff01e046864" />
 
 - Add Books: Authenticated users can add new books to the platform
-  <img width="1360" height="600" alt="addbook" src="https://github.com/user-attachments/assets/29b3b588-8c3e-4ed3-9fdd-ba680fd4a85f" />
+  <img width="1360" height="600" alt="addbook" src="https://github.com/user-attachments/assets/97997964-7cf1-4640-a44e-5369e4a77a25" />
 
 - Book Details: Comprehensive book information with reviews and ratings
-  <img width="1362" height="601" alt="bookdetails" src="https://github.com/user-attachments/assets/1603e00f-c4a3-4437-be79-02afd9617936" />
+  <img width="1362" height="601" alt="bookdetails" src="https://github.com/user-attachments/assets/1d35709a-f9d6-460a-b301-856cfec9419e" />
 
 **⭐ Review System**
 
 - Write Reviews: Logged-in users can write detailed reviews with 1-5 star ratings
-  <img width="1356" height="599" alt="writereview" src="https://github.com/user-attachments/assets/8ed636e2-b6d1-4328-8b22-c2fcc2ee7246" />
+  <img width="1356" height="599" alt="writereview" src="https://github.com/user-attachments/assets/25935860-ff86-4857-beef-8a70948a1caf" />
 
 - View Reviews: See all reviews for any book with reviewer information, Average Ratings and One Review Rule(Users can only review each book once)
-  <img width="1362" height="602" alt="reviews" src="https://github.com/user-attachments/assets/e16821ef-c20d-49e8-9bcd-a7e17f9ee3a6" />
+  <img width="1362" height="602" alt="reviews" src="https://github.com/user-attachments/assets/2f2f82b3-a7b3-443b-9fa3-c84fbb3f25b6" />
 
 **🔐 Authentication**
 
 - User Registration: Create new accounts with email verification
-  <img width="1364" height="606" alt="reg" src="https://github.com/user-attachments/assets/1f5c9609-b755-47d5-8b47-708ec2ec08db" />
+  <img width="1364" height="606" alt="reg" src="https://github.com/user-attachments/assets/b765535a-9c1d-4a35-9138-388ca3549828" />
 
 - Secure Login: JWT-based authentication system
-  <img width="1366" height="601" alt="log" src="https://github.com/user-attachments/assets/c35f90e0-4837-4b60-b8b3-b3c94176b4a1" />
+  <img width="1366" height="601" alt="log" src="https://github.com/user-attachments/assets/d0c04ef3-32bc-43f5-a86b-0f6f43599523" />
 
 **🎨 User Interface**
 
@@ -38,7 +38,7 @@ A full-stack web application where users can discover books, write reviews, and 
 - Modern UI: Clean, intuitive interface with smooth navigation
 
 - Real-time Updates: Dynamic content updates without page refreshes
-  <img width="1364" height="605" alt="UI" src="https://github.com/user-attachments/assets/b6eaeead-f037-4758-ae4f-983d42a9ad1a" />
+  <img width="1364" height="605" alt="UI" src="https://github.com/user-attachments/assets/e4d1c5b4-033d-4958-beb9-c4983193994a" />
 
 ## 🛠️ Tech Stack
 **Backend**
